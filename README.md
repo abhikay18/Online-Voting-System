@@ -75,7 +75,7 @@ To run the Online Voting System, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/abhikay18/Online-Voting-System.git
     ```
 
 2. Compile the C++ code:
